@@ -1,9 +1,7 @@
 body {
   color: #5a6275;
   margin-top: 45px;
-  background-image: url("images/sky.jpg");
-  /*background-color: rgb(148 255 213);
-  /* background-color: antiquewhite;*/
+  background-image: url("https://github.com/LyubovStruk/WeatherProjectApp/blob/main/images/sky.jpg");
 }
 
 h1 {
