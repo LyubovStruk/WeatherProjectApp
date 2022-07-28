@@ -1,0 +1,89 @@
+body {
+  color: #5a6275;
+  margin-top: 45px;
+  background-image: url("C:/Users/lubov/OneDrive/Documents/SheCodes/PLUS/week5/homeWorkProject/images/sky.jpg");
+  /*background-color: rgb(148 255 213);
+  /* background-color: antiquewhite;*/
+}
+
+h1 {
+  color: #5a6275;
+  display: inline-block;
+  font-family: arial, sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  height: 50px;
+  text-align: left;
+  width: 600px;
+  margin: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+il {
+  font-size: 16px;
+  font-weight: 200;
+  height: 19px;
+  text-align: left;
+}
+a {
+  text-decoration: none;
+  color: #5a6275;
+}
+form #input-city {
+  /* border-radius: 10px;
+    border: 2px solid rgb(57, 57, 124);*/
+  /* padding: 5px;*/
+  margin: 0 auto;
+}
+.weather-project {
+  margin: 20px auto 10px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: block;
+  background-color: rgba(148, 255, 213, 0.35);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  color: rgb(0, 0, 73);
+  max-width: 800px;
+}
+.current-temp {
+  font-size: 24px;
+  color: #5a6275;
+  margin: 5px;
+}
+.conteiner {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.search {
+  border: 1px solid #5a6275;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+  max-width: 600px;
+  line-height: 1.25;
+}
+.row-day {
+  margin: 0;
+}
+.buttonCurrentLocation {
+  border: 1px solid #5a6275;
+  border-width: 1px;
+  padding: 2px 6px;
+  border-radius: 2px;
+  height: 25px;
+}
+.degrees {
+  font-size: 14px;
+  margin: 0;
+}
+#weatherIcon .col-2 {
+  margin: 0 auto;
+  display: block;
+  max-width: 100px;
+}
